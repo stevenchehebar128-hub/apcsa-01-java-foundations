@@ -10,7 +10,10 @@
  */
 public class HelloYou {
     public static void main(String[] args) {
-
+        System.out.println("steven");
+        System.out.println("16");
+        System.out.println("I am in grade 11");
+        System.out.println("I am a AP Computer Science student");
         // Your code here
 
     }
